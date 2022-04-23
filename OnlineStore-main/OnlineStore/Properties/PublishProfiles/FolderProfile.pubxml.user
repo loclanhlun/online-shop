@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\tranb\Desktop\OnlineStore\OnlineStore-main\OnlineStore\bin\Debug\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-04-13T02:17:40.7709718Z;True|2022-04-08T15:10:22.5240475+07:00;True|2022-04-07T14:49:12.8689505+07:00;True|2022-04-07T14:47:10.5542371+07:00;True|2022-04-07T14:41:56.6390402+07:00;True|2022-04-07T14:28:07.3897527+07:00;False|2022-04-07T14:27:31.9063667+07:00;True|2022-04-07T14:26:48.0502585+07:00;True|2022-04-07T14:26:22.8721015+07:00;False|2022-04-07T14:25:52.6231661+07:00;True|2022-04-07T11:49:06.8926147+07:00;True|2022-04-07T09:25:48.8441921+07:00;True|2022-04-07T09:24:42.7476630+07:00;True|2022-04-06T17:21:21.3606619+07:00;True|2022-04-06T17:18:45.4531210+07:00;</History>
+  </PropertyGroup>
+</Project>
